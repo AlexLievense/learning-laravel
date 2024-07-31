@@ -1,3 +1,6 @@
 [submodule "ll001-demo"]
 	path = ll001-demo
 	url = git@github.com:AlexLievense/ll001-demo.git
+[submodule "ll002-blog"]
+	path = ll002-blog
+	url = git@github.com:AlexLievense/ll002-blog.git
