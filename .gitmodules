@@ -4,3 +4,6 @@
 [submodule "ll002-blog"]
 	path = ll002-blog
 	url = git@github.com:AlexLievense/ll002-blog.git
+[submodule "ll003-breeze-demo"]
+	path = ll003-breeze-demo
+	url = git@github.com:AlexLievense/ll003-breeze-demo.git
