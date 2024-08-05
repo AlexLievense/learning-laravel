@@ -12,7 +12,7 @@ help:
 			} \
 		}' $(MAKEFILE_LIST)
 
-SUBMODULES := ll001-demo ll002-blog
+SUBMODULES := ll001-demo ll002-blog ll003-breeze-demo
 
 ## Updates all submodules to the latest commit on the main branch
 update:
