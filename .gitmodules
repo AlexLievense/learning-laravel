@@ -7,3 +7,6 @@
 [submodule "ll003-breeze-demo"]
 	path = ll003-breeze-demo
 	url = git@github.com:AlexLievense/ll003-breeze-demo.git
+[submodule "ll004-pixel-positions"]
+	path = ll004-pixel-positions
+	url = git@github.com:AlexLievense/ll004-pixel-positions.git
