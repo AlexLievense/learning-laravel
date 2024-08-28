@@ -12,7 +12,7 @@ help:
 			} \
 		}' $(MAKEFILE_LIST)
 
-SUBMODULES := ll001-demo ll002-blog ll003-breeze-demo
+SUBMODULES := ll001-demo ll002-blog ll003-breeze-demo ll004-pixel-positions
 
 ## Updates all submodules to the latest commit on the main branch
 update:
