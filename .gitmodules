@@ -10,3 +10,6 @@
 [submodule "ll004-pixel-positions"]
 	path = ll004-pixel-positions
 	url = git@github.com:AlexLievense/ll004-pixel-positions.git
+[submodule "ll005-eloquent-relationships"]
+	path = ll005-eloquent-relationships
+	url = git@github.com:AlexLievense/ll005-eloquent-relationships.git
